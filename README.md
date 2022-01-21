@@ -95,5 +95,5 @@ var data: CellData!
 
 ## Support
 If you have any questions, issues, or propositions, please create a new issue in this repository.
-If you any questions regarding <a href="https://www.excellentwebworld.com/iphone-application-development-services/?utm_source=github&utm_campaign=iphone-app-development">iPhone application development services</a> or want to hire our developers, then send an email to sales@cleveroad.com or fill out the form on the contact page
+If you any questions regarding <a href="https://www.excellentwebworld.com/iphone-application-development-services/?utm_source=github&utm_campaign=iphone-app-development">iPhone application development services</a> or want to <a href="https://www.excellentwebworld.com/hire-iphone-app-developers/?utm_source=github&utm_campaign=hire+iphone-developers">hire iphone app developer</a>, then send an email to sales@cleveroad.com or fill out the form on the contact page
 
