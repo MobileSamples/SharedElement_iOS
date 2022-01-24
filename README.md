@@ -28,9 +28,9 @@ Make your needed layout. As You can see in my case, I have added an image view i
 ### Writing up the Delegates 
 In your controller, confirm From & To View Controllers in “UIViewControllerTransitioningDelegate” Methods. As I have written code in the ”ViewController.swift” file to open and close the view.
 
-extension ViewController: UIViewControllerTransitioningDelegate {
+    extension ViewController: UIViewControllerTransitioningDelegate {
 
-// This method will be used for open view.
+    // This method will be used for open view.
 
     func animationController(forPresented presented: UIViewController, presenting: UIViewController, source: UIViewController) -> UIViewControllerAnimatedTransitioning? {
         guard let firstViewController = presenting as? ViewController,
@@ -42,7 +42,7 @@ extension ViewController: UIViewControllerTransitioningDelegate {
         return animator
     }
 
-// This method will be used for Close view.
+    // This method will be used for Close view.
 
     func animationController(forDismissed dismissed: UIViewController) -> UIViewControllerAnimatedTransitioning? {
         guard let secondViewController = dismissed as? SecondViewController,
@@ -71,7 +71,7 @@ On the Image tab, we will pass the image model (in our case data manager Modal) 
 
 Set Image and other data in the second view controller that we have sent from the previous controller.
 
-var data: CellData!
+    var data: CellData!
 
     @IBOutlet private(set) var locationImageView: UIImageView!
     @IBOutlet private(set) var locationLabel: UILabel!
