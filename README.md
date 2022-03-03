@@ -13,7 +13,7 @@ Examples of such transitions are slide transition, fade transition, and explode 
 * Slide - Moves views in or out from one of the edges of the scene.
 * Fade - Adds or removes a view from the scene by changing its opacity.
 
-![Alt Text](https://eww-wp-new.s3.ap-south-1.amazonaws.com/wp-content/uploads/2022/01/11124324/gif-04.gif)
+![Alt Text](https://eww-wp-new.s3.ap-south-1.amazonaws.com/wp-content/uploads/2022/03/02123724/GIF-02.gif)
 
 ## Requirement
 iOS 13.0 to 15.0
